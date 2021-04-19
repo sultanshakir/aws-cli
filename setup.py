@@ -27,7 +27,7 @@ install_requires = [
     'botocore==1.16.12',
     'docutils>=0.10,<0.16',
     'rsa>=3.1.2,<=3.5.0',
-    's3transfer>=0.3.0,<0.4.0',
+    's3transfer>=0.3.0,<0.5.0',
 ]
 
 
